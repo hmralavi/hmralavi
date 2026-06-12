@@ -1,4 +1,4 @@
-# 👋 Hamed Alavi
+# 👋 Hamid Alavi
 
 <p>
   <img src="https://img.shields.io/badge/Biomedical%20Engineering-Machine%20Learning-blue?style=for-the-badge" />
